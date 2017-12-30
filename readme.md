@@ -1,6 +1,6 @@
 # Continuous Delivery Workshop Acceptance Tests
 
-This is an external project used to execute the acceptance tests against a standing application (LINK HERE). 
+This is an external project used to execute the acceptance tests against a standing application (https://github.com/r-cochran/cdd-workshop). 
 
 # Requirements
 
@@ -16,6 +16,7 @@ define the CHROME_WEB_DRIVER system variable
     export CHROME_WEB_DRIVER="path/to/webdriver/chromewebdriver"
 ```
 
+have the application running
 
 # Build Commands
 
